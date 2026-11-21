@@ -184,11 +184,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 511.833251953125
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +204,7 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "d3047652e24c1c4f",
+  "active": "4c078b5c32570744",
   "lastOpenFiles": [
     "2026-11-21.md"
   ]
