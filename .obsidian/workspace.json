@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 569.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,11 +201,38 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "copilot:Open Copilot Agent Chat": false
+      "copilot:Open Copilot Agent Chat": false,
+      "tasknotes:打开迷你日历视图": true,
+      "tasknotes:打开日历视图": false,
+      "tasknotes:打开任务视图": false,
+      "tasknotes:打开议程视图": true,
+      "tasknotes:打开看板": true,
+      "tasknotes:打开番茄钟计时器": true,
+      "tasknotes:创建新任务": false
     }
   },
   "active": "4c078b5c32570744",
   "lastOpenFiles": [
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/LICENSE",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-bases/references",
+    "copilot/skills/obsidian-bases",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/LICENSE",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/obsidian-markdown/references",
+    "copilot/skills/obsidian-markdown",
+    "copilot/skills",
+    "copilot",
+    "_mdbase/README.md",
+    "_mdbase/README.md.tasknotes-stage-1795312101245-5-pqxbvlbjls-l9p4k9w9sp",
+    "_mdbase/types/task.md",
+    "_mdbase/types/task.md.tasknotes-stage-1795312101201-4-wljxeclbe0d-j4gmm23y5s",
+    "_mdbase/types/tasknotes-settings.md",
     "2026-11-21.md"
   ]
 }

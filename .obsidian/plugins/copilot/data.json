@@ -126,11 +126,72 @@
           ]
         }
       }
+    },
+    "deviceProfiles": {
+      "0c1ce02a-5bf7-4e8d-8b40-7f74f6bc0773": {
+        "codex": {
+          "binaryPath": "C:\\Users\\gramp\\.obsidian-copilot\\codex\\2.2.2\\codex-acp.exe",
+          "binaryVersion": "2.2.2",
+          "binarySource": "managed"
+        }
+      }
     }
   },
-  "providers": {},
-  "configuredModels": [],
-  "backends": {},
+  "providers": {
+    "ac1663df-b823-413e-a42c-8398c2050f53": {
+      "providerType": "openai-compatible",
+      "displayName": "Codex",
+      "origin": {
+        "kind": "agent",
+        "agentType": "codex"
+      },
+      "requiresApiKey": false,
+      "providerId": "ac1663df-b823-413e-a42c-8398c2050f53",
+      "addedAt": 1795313260528,
+      "apiKeyKeychainId": null
+    }
+  },
+  "configuredModels": [
+    {
+      "providerId": "ac1663df-b823-413e-a42c-8398c2050f53",
+      "info": {
+        "id": "moonshotai/kimi-k3.1-pro",
+        "displayName": "moonshotai/kimi-k3.1-pro",
+        "description": "moonshotai/kimi-k3.1-pro"
+      },
+      "configuredModelId": "8c2488c5-c80d-4b68-a8c5-7932ad8f7b6e",
+      "configuredAt": 1795313265592
+    },
+    {
+      "providerId": "ac1663df-b823-413e-a42c-8398c2050f53",
+      "info": {
+        "id": "nvidia/nemotron-3-ultra-550b-a55b",
+        "displayName": "nvidia/nemotron-3-ultra-550b-a55b",
+        "description": "nvidia/nemotron-3-ultra-550b-a55b"
+      },
+      "configuredModelId": "16b55f5b-6296-4588-a0fd-6846d52ae172",
+      "configuredAt": 1795313265595
+    },
+    {
+      "providerId": "ac1663df-b823-413e-a42c-8398c2050f53",
+      "info": {
+        "id": "nvidia/nemotron-3.5-bolt-e4b",
+        "displayName": "nvidia/nemotron-3.5-bolt-e4b",
+        "description": "nvidia/nemotron-3.5-bolt-e4b"
+      },
+      "configuredModelId": "3540fb8f-c27c-4ec3-a332-e87ddabbd71a",
+      "configuredAt": 1795313265598
+    }
+  ],
+  "backends": {
+    "codex": {
+      "enabledModels": [
+        "8c2488c5-c80d-4b68-a8c5-7932ad8f7b6e",
+        "16b55f5b-6296-4588-a0fd-6846d52ae172",
+        "3540fb8f-c27c-4ec3-a332-e87ddabbd71a"
+      ]
+    }
+  },
   "copilotPlusCatalog": {
     "models": [
       {
